@@ -1,0 +1,32 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio / MonoDevelop generated folders
+/[Ee]xported[Oo]bj/
+/[Vv]isual[Ss]tudio/
+/[Mm]ono[Ss]ettings/
+
+# Unity3D generated files
+/*.apk
+/*.unitypackage
+/*.asset
+/*.Hackathon_BackUpThisFolder_ButDontShipItWithYourGame
+
+# Other files and folders
+.DS_Store
+Thumbs.db
+*.log
+*.userprefs
+*.csproj
+*.sln
+*.pidb
+*.pdb
+*.user
+*.idea/
+*.vscode/
